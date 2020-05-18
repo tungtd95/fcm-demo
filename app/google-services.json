@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "356528854845",
+    "firebase_url": "https://cloud-func-demo-119c1.firebaseio.com",
+    "project_id": "cloud-func-demo-119c1",
+    "storage_bucket": "cloud-func-demo-119c1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:356528854845:android:88a1ffea05891302aa1754",
+        "android_client_info": {
+          "package_name": "com.example.cloudfunctiondemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "356528854845-fdgpukmj5sgcan0uugooovc41o30dul3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeDLLBHs2WHitAT_rTrRw6i2fjPVsHnO0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "356528854845-fdgpukmj5sgcan0uugooovc41o30dul3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
